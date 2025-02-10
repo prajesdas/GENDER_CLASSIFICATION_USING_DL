@@ -44,4 +44,7 @@ Feel free to submit issues or pull requests to improve the project!
 ## 📜 License
 This project is licensed under the MIT License.
 
+![Screenshot 2024-09-16 231821](https://github.com/user-attachments/assets/ae93935e-ecf3-4d53-a85e-a077f84ed95b)
+![Screenshot 2024-09-18 025343](https://github.com/user-attachments/assets/d818f4da-6143-4d3e-9061-30a732f4cbbf)
+
 
